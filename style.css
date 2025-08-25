@@ -1,0 +1,31 @@
+html{
+    overflow-x: hidden
+}
+
+body{
+    margin: 0;
+}
+
+.bmw-logo{
+    height: 50px;
+    margin-right: auto;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.header{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(115, 194, 247);   
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+}
