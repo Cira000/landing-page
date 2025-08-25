@@ -29,3 +29,39 @@ a{
     font-size: 20px;
     font-weight: 700;
 }
+
+.content1{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    gap: 80px;
+}
+
+.container-text{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    color: white;
+    
+}
+
+.bmw-m3{
+    height: 370px;
+    border-radius: 100px;
+    padding: 20px 0;
+}
+
+.bmwe30{
+    font-family: "Roboto";
+    font-size: 100px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.about-e30{
+    font-family: "Roboto";
+    font-size: 18px;
+}
