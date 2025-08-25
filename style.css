@@ -43,7 +43,7 @@ a{
     width: 500px;
     justify-content: center;
     align-items: flex-start;
-    gap: 10px;
+    gap: 0px;
     color: white;
     
 }
@@ -63,5 +63,7 @@ a{
 
 .about-e30{
     font-family: "Roboto";
-    font-size: 18px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(196, 196, 196);
 }
