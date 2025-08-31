@@ -9,8 +9,9 @@ body{
 .bmw-logo{
     height: 50px;
     margin-right: auto;
-    margin-left: 5px;
+    margin-left: 15px;
     padding: 5px;
+    margin-top: 5px;
 }
 
 .header{
@@ -119,3 +120,32 @@ a{
     font-style: italic;
     color: rgb(85, 85, 85);
 }
+.content3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: lightgray;
+}
+
+.quote{
+  font-family: "Dancing Script", cursive;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 38px;
+  width: 600px;
+}
+
+.footer{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(115, 194, 247);
+}
+
+.ftext{
+    font-size: 18px;
+}
+
